@@ -1,0 +1,12 @@
+# Python basics
+IPython - interactive python
+# - comentário
+** - Exponenciação
+print()
+% - módulo
+type()
+soma de strings (aspas simples ou duplas), multiplicação também;
+tipos de variáveis
+int, float, str e bool
+type conversion
+str(), int(), float() e bool()
